@@ -1,4 +1,5 @@
 import { fileURLToPath, URL } from 'node:url'
+import { setupBuild } from './build/index'
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
@@ -9,16 +10,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  build: {
-    rollupOptions: {
-      // 配置多页面
-      input: {
-        index: './index.html',
-        disease: './disease.html',
-        herb: './herb.html',
-      },
-    },
-  },
+  build: setupBuild(),
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
