@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/HerbalJourney/', // github仓库名称
+  base: './', // github仓库名称
   plugins: [
     vue(),
   ],
