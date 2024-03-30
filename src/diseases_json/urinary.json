@@ -1,0 +1,76 @@
+{
+    "disease": {
+      "zh": "尿路感染",
+      "en": "Urinary Tract Infection (UTI)"
+    },
+    "key": "urinary", 
+    "description": {
+      "zh": "尿路感染（Urinary Tract Infection, UTI）是指尿路系统（包括膀胱、尿道、肾脏等）的感染。它可以分为上尿路感染和下尿路感染，其中最常见的是下尿路感染，表现为尿急、尿频、尿痛等症状。尿路感染主要由细菌引起，尤其是大肠杆菌。在中医中，尿路感染可能与湿热下注、气虚不固等有关，治疗通常侧重于清热利湿、补气固表。",
+      "en": "Urinary Tract Infection (UTI) refers to an infection in the urinary system, including the bladder, urethra, and kidneys. It can be categorized into upper and lower urinary tract infections, with the latter being more common, presenting symptoms such as urgency, frequency, and pain during urination. UTIs are primarily caused by bacteria, especially E. coli. In traditional Chinese medicine (TCM), UTI may be related to damp-heat pouring downward or qi deficiency not securing, with treatments focusing on clearing heat and draining dampness, supplementing qi, and securing the exterior."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "茯苓",
+          "en": "Poria"
+        },
+        "effects": {
+          "zh": "能健脾利湿，对于因湿热引起的尿路感染有很好的治疗效果。它可以帮助清除体内的湿热，减轻尿频、尿急等症状。",
+          "en": "Strengthens the spleen and drains dampness, effectively treating UTIs caused by damp-heat. It helps clear damp-heat from the body and alleviate symptoms like frequent urination and urgency."
+        }
+      },
+      {
+        "name": {
+          "zh": "菊花",
+          "en": "Chrysanthemum"
+        },
+        "effects": {
+          "zh": "性寒，有清热解毒、平肝明目的作用，适用于治疗因肝火过旺引起的尿路感染，能够缓解发热、尿痛等症状。",
+          "en": "Is cold in nature and has the effects of clearing heat and detoxifying, calming the liver, and improving vision. It is suitable for treating UTIs caused by excessive liver fire, relieving symptoms like fever and painful urination."
+        }
+      },
+      {
+        "name": {
+          "zh": "桔梗",
+          "en": "Platycodon Grandiflorum"
+        },
+        "effects": {
+          "zh": "能够宣肺解表、利咽通络，对于上呼吸道感染引起的尿路感染有辅助治疗作用，帮助改善呼吸系统的健康状况。",
+          "en": "Can disperse the lung and resolve phlegm, benefit the throat, and promote the circulation of qi. It offers auxiliary treatment for UTIs caused by upper respiratory tract infections, helping to improve the health of the respiratory system."
+        }
+      },
+      {
+        "name": {
+          "zh": "泽泻",
+          "en": "Alisma Plantago-aquatica"
+        },
+        "effects": {
+          "zh": "具有利水渗湿、清热泻火的功效，适用于治疗因内热过盛引起的尿路感染，可以帮助减轻尿频、尿急等症状。",
+          "en": "Has diuretic, dampness-draining, heat-clearing, and fire-purging effects, suitable for treating UTIs caused by excessive internal heat, helping to alleviate symptoms like frequent urination and urgency."
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "茯苓和泽泻",
+          "en": "Poria and Alisma Plantago-aquatica"
+        },
+        "effects": {
+          "zh": "可以加强利水渗湿的作用，特别适合湿热型尿路感染患者。",
+          "en": "Strengthens the diuresis and dampness-draining effect, especially suitable for patients with damp-heat type UTIs."
+        }
+      },
+      {
+        "combination": {
+          "zh": "菊花与桔梗",
+          "en": "Chrysanthemum and Platycodon Grandiflorum"
+        },
+        "effects": {
+          "zh": "可以清热解毒、宣肺解表，适合因肝火过旺或上呼吸道感染引起的尿路感染。",
+          "en": "Can clear heat and detoxify, disperse the lung, and resolve phlegm, suitable for UTIs caused by excessive liver fire or upper respiratory tract infections."
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,76 @@
+{
+    "disease": {
+      "zh": "心律失常",
+      "en": "Arrhythmia"
+    },
+    "key": "arrhythmia", 
+    "description": {
+      "zh": "心律失常是指心脏的节律或速率异常。它可以表现为心跳过快、过慢或不规则。心律失常有多种类型，包括心动过速、心动过缓、房颤等，可能由心脏疾病、电解质不平衡、心脏手术后效应或某些药物引起。在中医中，心律失常可能与‘心气乱’或‘心阴虚’有关，治疗侧重于调和心脏功能、滋养心阴、安神。",
+      "en": "Arrhythmia is an abnormal rhythm or rate of the heartbeat. It can manifest as the heart beating too fast, too slow, or irregularly. There are various types of arrhythmias, including tachycardia, bradycardia, atrial fibrillation, etc., which can be caused by heart disease, electrolyte imbalances, effects of heart surgery, or certain medications. In traditional Chinese medicine (TCM), arrhythmia may be related to 'heart qi disorder' or 'heart yin deficiency,' with treatments focusing on harmonizing heart function, nourishing heart yin, and calming the mind."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "白术",
+          "en": "Atractylodes Macrocephala"
+        },
+        "effects": {
+          "zh": "能健脾燥湿、补气固表，对于因脾虚引起的心律失常有一定的辅助治疗作用，通过增强脾功能来稳定内环境，进而稳定心律。",
+          "en": "Strengthens the spleen, dries dampness, supplements qi, and secures the exterior. It offers auxiliary treatment for arrhythmias caused by spleen deficiency, by enhancing spleen function to stabilize the internal environment and thus stabilize the heartbeat."
+        }
+      },
+      {
+        "name": {
+          "zh": "丹参",
+          "en": "Salvia Miltiorrhiza"
+        },
+        "effects": {
+          "zh": "具有活血化瘀、清热解毒的功效，能够改善心脏的血液循环，对于心律失常有一定的缓解作用。",
+          "en": "Has the effects of promoting blood circulation to remove blood stasis and clearing heat and detoxifying. It can improve cardiac blood circulation and relieve arrhythmias."
+        }
+      },
+      {
+        "name": {
+          "zh": "桔梗",
+          "en": "Platycodon Grandiflorum"
+        },
+        "effects": {
+          "zh": "能够宣肺解表、利咽通络，对于因肺部疾病引起的心律失常有辅助治疗作用，帮助改善呼吸系统的健康状况。",
+          "en": "Can disperse the lung and resolve phlegm, benefit the throat, and promote the circulation of qi. It offers auxiliary treatment for arrhythmias caused by lung diseases, helping to improve the health of the respiratory system."
+        }
+      },
+      {
+        "name": {
+          "zh": "香附",
+          "en": "Cyperus Rotundus"
+        },
+        "effects": {
+          "zh": "具有疏肝解郁、行气活血的作用，可以缓解因情绪波动或气滞血瘀引起的心律失常，有助于维持心脏的正常节律。",
+          "en": "Has the functions of soothing the liver, relieving depression, promoting qi circulation, and activating blood. It can alleviate arrhythmias caused by emotional fluctuations or qi stagnation and blood stasis, helping to maintain a normal heart rhythm."
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "丹参和白术",
+          "en": "Salvia Miltiorrhiza and Atractylodes Macrocephala"
+        },
+        "effects": {
+          "zh": "可以活血化瘀、补气固表，对于改善心脏血液循环、稳定心律具有积极效果。",
+          "en": "Can promote blood circulation to remove blood stasis and supplement qi, having a positive effect on improving cardiac blood circulation and stabilizing the heartbeat."
+        }
+      },
+      {
+        "combination": {
+          "zh": "香附与桔梗",
+          "en": "Cyperus Rotundus and Platycodon Grandiflorum"
+        },
+        "effects": {
+          "zh": "可以疏肝解郁、宣肺解表，适合因情绪波动或呼吸系统疾病引起的心律失常。",
+          "en": "Can soothe the liver, relieve depression, disperse the lung, and resolve phlegm, suitable for arrhythmias caused by emotional fluctuations or respiratory diseases."
+        }
+      }
+    ]
+  }
+  

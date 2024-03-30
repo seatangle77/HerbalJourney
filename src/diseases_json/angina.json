@@ -1,0 +1,76 @@
+{
+    "disease": {
+      "zh": "心绞痛",
+      "en": "Angina Pectoris"
+    },
+    "key": "angina", 
+    "description": {
+      "zh": "心绞痛是一种胸部疼痛的症状，通常由心脏供血不足导致。这种疼痛感可能会辐射到臂部、肩部、颈部或下颚。心绞痛是冠状动脉疾病的一种表现，提示心脏某部分暂时得不到足够的血液和氧气。在中医中，心绞痛可能被视为“心痛”或“胸痹”，其治疗侧重于活血化瘀、通经络、散寒解郁。",
+      "en": "Angina Pectoris is a symptom of chest pain, often due to insufficient blood supply to the heart, which may radiate to the arms, shoulders, neck, or jaw. It is an indication of coronary artery disease, signaling that a part of the heart is not receiving enough blood and oxygen temporarily. In traditional Chinese medicine (TCM), angina is often treated as \"heart pain\" or \"chest impediment,\" focusing on promoting blood circulation, removing blood stasis, dredging collaterals, dispelling cold, and resolving depression."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "茯苓",
+          "en": "Poria"
+        },
+        "effects": {
+          "zh": "温和的利水剂，能够健脾、利湿、宁心安神",
+          "en": "A mild diuretic that can strengthen the spleen, drain dampness, calm the heart, and soothe the mind"
+        }
+      },
+      {
+        "name": {
+          "zh": "当归",
+          "en": "Angelica Sinensis"
+        },
+        "effects": {
+          "zh": "补血调经、活血化瘀，改善血液循环",
+          "en": "Blood-supplementing and stasis-resolving, improves blood circulation"
+        }
+      },
+      {
+        "name": {
+          "zh": "丹参",
+          "en": "Salvia Miltiorrhiza"
+        },
+        "effects": {
+          "zh": "活血化瘀、舒张血管，对冠状动脉疾病和心绞痛有良好的治疗效果",
+          "en": "Promotes blood circulation and vessel dilation, effective for coronary artery disease and angina"
+        }
+      },
+      {
+        "name": {
+          "zh": "山楂",
+          "en": "Hawthorn"
+        },
+        "effects": {
+          "zh": "促进血液循环，强化心脏功能，降低血压和胆固醇",
+          "en": "Promotes blood circulation, strengthens cardiac function, and lowers blood pressure and cholesterol"
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "茯苓和丹参",
+          "en": "Poria and Salvia Miltiorrhiza"
+        },
+        "effects": {
+          "zh": "共同改善心脏的血液供应，减轻心绞痛症状",
+          "en": "Improves cardiac blood supply and relieves symptoms of angina"
+        }
+      },
+      {
+        "combination": {
+          "zh": "当归和山楂",
+          "en": "Angelica Sinensis and Hawthorn"
+        },
+        "effects": {
+          "zh": "补血活血，强化心脏功能，适合心绞痛患者，尤其是那些因血液循环不畅导致的症状",
+          "en": "Supplements and activates blood circulation, strengthens cardiac function, suitable for angina patients, especially those with symptoms caused by poor blood circulation"
+        }
+      }
+    ]
+  }
+  

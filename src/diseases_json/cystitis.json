@@ -1,0 +1,76 @@
+{
+    "disease": {
+      "zh": "膀胱炎",
+      "en": "Cystitis"
+    },
+    "key": "cystitis", 
+    "description": {
+      "zh": "膀胱炎是指膀胱的炎症，通常表现为频繁、急迫感以及疼痛的排尿。膀胱炎可能由多种原因引起，包括感染、药物、辐射治疗或某些疾病。在中医中，膀胱炎可能与湿热下注、气滞血瘀有关，治疗通常侧重于清热利湿、活血化瘀。",
+      "en": "Cystitis refers to the inflammation of the bladder, usually presenting as frequent, urgent, and painful urination. The condition can be caused by various factors, including infections, medications, radiation therapy, or certain diseases. In traditional Chinese medicine (TCM), cystitis may be associated with damp-heat pouring down or qi stagnation and blood stasis, with treatments typically focusing on clearing heat and dampness, promoting blood circulation to remove blood stasis."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "茯苓",
+          "en": "Poria"
+        },
+        "effects": {
+          "zh": "是一种温和的利水剂，能健脾利湿，对于因湿热引起的膀胱炎有很好的治疗效果",
+          "en": "A mild diuretic that can strengthen the spleen and drain dampness, effective for treating cystitis caused by damp-heat"
+        }
+      },
+      {
+        "name": {
+          "zh": "当归",
+          "en": "Angelica Sinensis"
+        },
+        "effects": {
+          "zh": "能补血调经、活血化瘀，对于因气血不畅引起的膀胱炎症状，如疼痛、血尿，有一定的缓解作用",
+          "en": "Can supplement blood, regulate menstruation, promote blood circulation, and remove blood stasis, relieving symptoms of cystitis such as pain and hematuria"
+        }
+      },
+      {
+        "name": {
+          "zh": "泽泻",
+          "en": "Alisma Plantago-aquatica"
+        },
+        "effects": {
+          "zh": "具有利水渗湿、清热泻火的功效，适用于治疗因内热过盛引起的膀胱炎",
+          "en": "Has diuretic, dampness-draining, heat-clearing, and fire-purging effects, suitable for treating cystitis caused by excessive internal heat"
+        }
+      },
+      {
+        "name": {
+          "zh": "桔梗",
+          "en": "Platycodon Grandiflorum"
+        },
+        "effects": {
+          "zh": "能够宣肺解表、利咽通络，对于上呼吸道感染引起的膀胱炎有辅助治疗作用",
+          "en": "Can disperse the lung and resolve phlegm, benefiting the throat and promoting the circulation of qi, provides auxiliary treatment for cystitis caused by upper respiratory tract infections"
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "茯苓和泽泻",
+          "en": "Poria and Alisma Plantago-aquatica"
+        },
+        "effects": {
+          "zh": "可以加强利水渗湿的作用，特别适合湿热型膀胱炎患者",
+          "en": "Strengthens the diuresis and dampness-draining effect, especially suitable for patients with damp-heat type cystitis"
+        }
+      },
+      {
+        "combination": {
+          "zh": "当归与桔梗",
+          "en": "Angelica Sinensis and Platycodon Grandiflorum"
+        },
+        "effects": {
+          "zh": "不仅可以活血化瘀，还可以帮助清热解毒，适合因气血不畅或感染引起的膀胱炎",
+          "en": "Not only promotes blood circulation to remove blood stasis but also helps to clear heat and detoxify, suitable for cystitis caused by qi and blood stagnation or infections"
+        }
+      }
+    ]
+  }
+  

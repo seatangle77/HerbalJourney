@@ -1,0 +1,76 @@
+{
+    "disease": {
+      "zh": "消化不良",
+      "en": "Indigestion"
+    },
+    "key": "indigestion", 
+    "description": {
+      "zh": "消化不良是指消化过程中出现的问题，导致胃部不适、腹胀、腹痛、恶心或反酸等症状。消化不良可以由多种因素引起，包括饮食不当、过度饮酒、压力大、某些药物的副作用或消化系统疾病。在中医理论中，消化不良可能与脾胃虚弱、湿阻中焦、食积内停等有关，治疗通常侧重于健脾和胃、调理气机、消食导滞。",
+      "en": "Indigestion refers to problems in the digestive process that lead to stomach discomfort, bloating, abdominal pain, nausea, or acid reflux. It can be caused by various factors, including improper diet, excessive alcohol consumption, stress, side effects of certain medications, or digestive system diseases. In traditional Chinese medicine (TCM), indigestion may be related to weakness of the spleen and stomach, damp obstruction in the middle burner, or food stagnation, with treatments focusing on strengthening the spleen and stomach, regulating qi, and eliminating food stagnation."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "茯苓",
+          "en": "Poria"
+        },
+        "effects": {
+          "zh": "能健脾利湿，对于因脾虚湿盛引起的消化不良（如腹胀、恶心）有很好的治疗效果",
+          "en": "Strengthens the spleen and drains dampness, effectively treating indigestion caused by spleen deficiency and excess dampness (such as bloating and nausea)"
+        }
+      },
+      {
+        "name": {
+          "zh": "甘草",
+          "en": "Licorice"
+        },
+        "effects": {
+          "zh": "具有补脾益气、清热解毒的作用，能够缓解胃部不适和胃炎症状",
+          "en": "Supplements the spleen and benefits qi, clears heat and detoxifies, relieving stomach discomfort and symptoms of gastritis"
+        }
+      },
+      {
+        "name": {
+          "zh": "白术",
+          "en": "Atractylodes Macrocephala"
+        },
+        "effects": {
+          "zh": "能健脾燥湿、补气固表，对于脾虚引起的消化不良（如食欲不振、腹胀）特别有效",
+          "en": "Strengthens the spleen, dries dampness, supplements qi, and stabilizes the exterior, particularly effective for indigestion caused by spleen deficiency (such as poor appetite and bloating)"
+        }
+      },
+      {
+        "name": {
+          "zh": "山楂",
+          "en": "Hawthorn"
+        },
+        "effects": {
+          "zh": "能够促进消化、去食积，对于因饮食过量或食物积滞引起的消化不良有显著效果",
+          "en": "Promotes digestion and removes food stagnation, significantly effective for indigestion caused by overeating or food stagnation"
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "茯苓、白术和甘草",
+          "en": "Poria, Atractylodes Macrocephala, and Licorice"
+        },
+        "effects": {
+          "zh": "可以共同作用于健脾利湿，增强消化功能，适合大部分消化不良的患者",
+          "en": "Work together to strengthen the spleen and drain dampness, enhancing digestive function, suitable for most patients with indigestion"
+        }
+      },
+      {
+        "combination": {
+          "zh": "山楂与白术",
+          "en": "Hawthorn and Atractylodes Macrocephala"
+        },
+        "effects": {
+          "zh": "不仅可以促进消化，还能健脾补气，适用于因食积或脾虚导致的消化不良",
+          "en": "Not only promotes digestion but also strengthens the spleen and supplements qi, suitable for indigestion caused by food stagnation or spleen deficiency"
+        }
+      }
+    ]
+  }
+  

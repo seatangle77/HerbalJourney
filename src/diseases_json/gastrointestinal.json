@@ -1,0 +1,76 @@
+{
+    "disease": {
+      "zh": "胃肠功能紊乱",
+      "en": "Gastrointestinal Dysregulation"
+    },
+    "key": "gastrointestinal", 
+    "description": {
+      "zh": "胃肠功能紊乱指的是胃肠道功能失常，可能包括消化不良、腹胀、胃痛、腹泻或便秘等症状。这种情况可能由饮食习惯不当、情绪压力、胃肠炎症或慢性疾病等多种因素引起。在中医中，胃肠功能紊乱可能与脾胃虚弱、湿热内蕴、气滞血瘀等有关，治疗通常侧重于健脾和胃、调理气血、清热利湿。",
+      "en": "Gastrointestinal Dysregulation refers to a dysfunction of the gastrointestinal (GI) tract, which may include symptoms such as indigestion, bloating, stomach pain, diarrhea, or constipation. This condition can be caused by improper dietary habits, emotional stress, inflammation of the GI tract, or chronic diseases. In traditional Chinese medicine (TCM), gastrointestinal dysregulation may be related to weakness of the spleen and stomach, damp-heat accumulation, qi stagnation and blood stasis, with treatments focusing on strengthening the spleen and stomach, regulating qi and blood, and clearing heat and draining dampness."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "甘草",
+          "en": "Licorice"
+        },
+        "effects": {
+          "zh": "具有补脾益气、清热解毒的作用，能够缓解胃部不适和胃炎症状。甘草也可用于调和其他草药，增强治疗效果。",
+          "en": "Supplements the spleen and benefits qi, clears heat and detoxifies, relieving stomach discomfort and symptoms of gastritis. Licorice can also harmonize other herbs, enhancing the therapeutic effect."
+        }
+      },
+      {
+        "name": {
+          "zh": "当归",
+          "en": "Angelica Sinensis"
+        },
+        "effects": {
+          "zh": "能补血调经、活血化瘀，对于因气血不畅引起的胃肠功能紊乱，如腹痛、消化不良，有一定的缓解作用。",
+          "en": "Can supplement blood, regulate menstruation, promote blood circulation, and remove blood stasis. It can relieve gastrointestinal dysregulation caused by qi and blood disharmony, such as abdominal pain and indigestion."
+        }
+      },
+      {
+        "name": {
+          "zh": "白术",
+          "en": "Atractylodes Macrocephala"
+        },
+        "effects": {
+          "zh": "能健脾燥湿、补气固表，对于脾虚引起的胃肠功能紊乱（如食欲不振、腹胀）特别有效。它能够促进食物的消化吸收，提高身体的整体能量水平。",
+          "en": "Strengthens the spleen, dries dampness, supplements qi, and secures the exterior. It is particularly effective for gastrointestinal dysregulation caused by spleen deficiency (such as poor appetite and bloating). It promotes the digestion and absorption of food, improving the overall energy level of the body."
+        }
+      },
+      {
+        "name": {
+          "zh": "山楂",
+          "en": "Hawthorn"
+        },
+        "effects": {
+          "zh": "能够促进消化、去食积，对于因饮食过量或食物积滞引起的胃肠功能紊乱有显著效果。山楂还可以帮助分解脂肪，适合消化油腻食物不良。",
+          "en": "Promotes digestion and removes food stagnation, significantly effective for gastrointestinal dysregulation caused by overeating or food stagnation. Hawthorn can also help break down fats, suitable for poor digestion of greasy foods."
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "甘草和白术",
+          "en": "Licorice and Atractylodes Macrocephala"
+        },
+        "effects": {
+          "zh": "可以共同作用于健脾补气，增强消化功能，适合大部分胃肠功能紊乱的患者。",
+          "en": "Work together to strengthen the spleen and supplement qi, enhancing digestive function, suitable for most patients with gastrointestinal dysregulation."
+        }
+      },
+      {
+        "combination": {
+          "zh": "当归与山楂",
+          "en": "Angelica Sinensis and Hawthorn"
+        },
+        "effects": {
+          "zh": "不仅可以补血活血，还能促进消化，适用于因气血不畅或食积导致的胃肠功能紊乱。",
+          "en": "Not only supplements blood and promotes blood circulation but also promotes digestion, suitable for gastrointestinal dysregulation caused by qi and blood disharmony or food stagnation."
+        }
+      }
+    ]
+  }
+  

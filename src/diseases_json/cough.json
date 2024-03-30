@@ -1,0 +1,86 @@
+{
+    "disease": {
+      "zh": "咳嗽",
+      "en": "Cough"
+    },
+    "key": "cough", 
+    "description": {
+      "zh": "咳嗽是一种常见的呼吸系统疾病，主要症状包括反复的咳嗽声，有时伴有痰。咳嗽可以由多种原因引起，包括感冒、流感、呼吸道感染、过敏、吸烟等。在中医中，治疗咳嗽往往需要辨证施治，根据咳嗽的具体类型（如风寒咳嗽、风热咳嗽等）来选择合适的草药。",
+      "en": "Cough is a common respiratory disease characterized by repetitive coughing sounds, sometimes accompanied by phlegm. It can be caused by various factors, including colds, influenza, respiratory infections, allergies, smoking, etc. In traditional Chinese medicine (TCM), treatment for cough often requires diagnosis and treatment based on the specific type of cough (such as wind-cold cough, wind-heat cough, etc.), and appropriate herbs are selected accordingly."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "甘草",
+          "en": "Licorice"
+        },
+        "effects": {
+          "zh": "清热解毒、润肺止咳",
+          "en": "Clear heat and detoxify, moisten the lungs, and stop coughs"
+        }
+      },
+      {
+        "name": {
+          "zh": "当归",
+          "en": "Angelica Sinensis"
+        },
+        "effects": {
+          "zh": "补血调经、活血化瘀",
+          "en": "Blood supplementation and menstruation regulation, improve blood circulation"
+        }
+      },
+      {
+        "name": {
+          "zh": "丹参",
+          "en": "Salvia Miltiorrhiza"
+        },
+        "effects": {
+          "zh": "活血化瘀、舒张血管",
+          "en": "Improve blood circulation and vessel dilation"
+        }
+      },
+      {
+        "name": {
+          "zh": "菊花",
+          "en": "Chrysanthemum"
+        },
+        "effects": {
+          "zh": "清热解毒、平肝明目",
+          "en": "Clear heat, detoxify, calm the liver, and improve vision"
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "甘草和菊花",
+          "en": "Licorice and Chrysanthemum"
+        },
+        "effects": {
+          "zh": "清热解毒、润肺止咳",
+          "en": "Heat-clearing, detoxifying, and cough-relieving effects"
+        }
+      },
+      {
+        "combination": {
+          "zh": "当归和丹参",
+          "en": "Angelica Sinensis and Salvia Miltiorrhiza"
+        },
+        "effects": {
+          "zh": "补血活血，适用于因气血虚弱引起的慢性咳嗽",
+          "en": "Blood-supplementing and circulation-improving effects, suitable for chronic coughs due to qi and blood deficiency"
+        }
+      },
+      {
+        "combination": {
+          "zh": "丹参单独或与其他药材搭配",
+          "en": "Salvia Miltiorrhiza alone or in combination with other herbs"
+        },
+        "effects": {
+          "zh": "改善血液循环，减轻咳嗽",
+          "en": "Improve blood circulation and alleviate coughing"
+        }
+      }
+    ]
+  }
+  

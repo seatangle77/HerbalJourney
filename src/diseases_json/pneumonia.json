@@ -1,0 +1,76 @@
+{
+    "disease": {
+      "zh": "肺炎",
+      "en": "Pneumonia"
+    },
+    "key": "pneumonia", 
+    "description": {
+      "zh": "肺炎是指肺部的炎症，通常由细菌、病毒或其他微生物引起。肺炎的典型症状包括发热、咳嗽、呼吸困难和胸痛。在中医中，肺炎可能被视为‘肺热’或‘痰湿阻肺’，治疗通常侧重于清热解毒、化痰止咳、宣肺平喘。",
+      "en": "Pneumonia is an inflammation of the lungs, usually caused by bacteria, viruses, or other microorganisms. Typical symptoms include fever, cough, difficulty breathing, and chest pain. In traditional Chinese medicine (TCM), pneumonia may be considered as 'lung heat' or 'phlegm-damp obstructing the lungs,' with treatments focusing on clearing heat and detoxifying, resolving phlegm and stopping cough, and ventilating the lungs to relieve asthma."
+    },
+    "recommended_herbs": [
+      {
+        "name": {
+          "zh": "丹参",
+          "en": "Salvia Miltiorrhiza"
+        },
+        "effects": {
+          "zh": "具有活血化瘀、清热解毒的功效，可以用于治疗因瘀血阻塞引起的肺部疾病，如肺炎，改善肺部血液循环，减轻炎症。",
+          "en": "Has the effects of promoting blood circulation to remove blood stasis and clearing heat and detoxifying. It can be used to treat lung diseases caused by blood stasis obstruction, such as pneumonia, improving lung blood circulation and reducing inflammation."
+        }
+      },
+      {
+        "name": {
+          "zh": "菊花",
+          "en": "Chrysanthemum"
+        },
+        "effects": {
+          "zh": "性寒，有清热解毒、散风热的作用，适用于治疗因外感风热引起的肺炎，能够缓解发热、咳嗽等症状。",
+          "en": "Is cold in nature and has the effects of clearing heat and detoxifying, dispersing wind-heat, suitable for treating pneumonia caused by exogenous wind-heat, relieving symptoms like fever and cough."
+        }
+      },
+      {
+        "name": {
+          "zh": "白术",
+          "en": "Atractylodes Macrocephala"
+        },
+        "effects": {
+          "zh": "能健脾燥湿、补气固表，对于肺炎患者常见的脾虚湿盛症状，如乏力、食欲不振，有良好的治疗效果。",
+          "en": "Strengthens the spleen, dries dampness, supplements qi, and secures the exterior. It effectively treats common symptoms of pneumonia in patients with spleen deficiency and excessive dampness, such as fatigue and poor appetite."
+        }
+      },
+      {
+        "name": {
+          "zh": "香附",
+          "en": "Cyperus Rotundus"
+        },
+        "effects": {
+          "zh": "具有疏肝解郁、行气活血的作用，对于因情绪抑郁、气滞血瘀引起的肺炎症状有一定的缓解作用。",
+          "en": "Has the functions of soothing the liver, relieving depression, promoting qi circulation, and activating blood. It can alleviate pneumonia symptoms caused by emotional depression, qi stagnation, and blood stasis."
+        }
+      }
+    ],
+    "herbal_combinations": [
+      {
+        "combination": {
+          "zh": "丹参和菊花",
+          "en": "Salvia Miltiorrhiza and Chrysanthemum"
+        },
+        "effects": {
+          "zh": "可以清热解毒、活血化瘀，适用于因瘀血或外感风热引起的肺炎。",
+          "en": "Can clear heat and detoxify, promote blood circulation to remove blood stasis, suitable for pneumonia caused by blood stasis or exogenous wind-heat."
+        }
+      },
+      {
+        "combination": {
+          "zh": "白术与香附",
+          "en": "Atractylodes Macrocephala and Cyperus Rotundus"
+        },
+        "effects": {
+          "zh": "可以健脾燥湿、疏肝解郁，适合因脾虚湿盛或情绪抑郁导致的肺炎患者。",
+          "en": "Can strengthen the spleen, dry dampness, soothe the liver, and relieve depression, suitable for pneumonia patients with spleen deficiency, excessive dampness, or emotional depression."
+        }
+      }
+    ]
+  }
+  
