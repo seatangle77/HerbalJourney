@@ -1,0 +1,57 @@
+{
+    "herb": "丹参",
+    "englishName": "Salvia miltiorrhiza",
+    "details": {
+      "scientificName": {
+        "zh": "丹参",
+        "en": "Salvia miltiorrhiza Bunge"
+      },
+      "alternativeNames": {
+        "zh": ["红花丹参", "赤丹参"],
+        "en": ["Red Sage", "Chinese Sage", "Dan Shen"]
+      },
+      "family": {
+        "zh": "唇形科（Lamiaceae），鼠尾草属（Salvia）",
+        "en": "Lamiaceae (Mint family)"
+      },
+      "habitat": {
+        "zh": "丹参喜欢生长在阳光充足、排水良好的环境中，通常在海拔200-1500米的地区。它主要分布在中国的中部和西部，如四川、陕西、甘肃等地。",
+        "en": "Native to China and Japan, Salvia miltiorrhiza grows in a wide range of habitats but prefers well-drained, sandy soils in sunny locations. It is cultivated extensively in China, particularly in the provinces of Shaanxi, Gansu, and Sichuan."
+      },
+      "usedPart": {
+        "zh": "主要使用其干燥的根和根茎，具有很高的药用价值。丹参的采挖通常在秋季进行，此时药效成分较为丰富。",
+        "en": "The root is the primary part used in traditional medicine."
+      },
+      "mainComponents": {
+        "zh": "丹参含有多种有益成分，包括丹参酮、难参酚酸B、水溶性酚酸等，这些成分赋予了丹参良好的药理活性。",
+        "en": "Contains tanshinones, salvianolic acids, and other phenolic compounds, which contribute to its cardiovascular and cerebrovascular benefits."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "活血化瘀：丹参能有效改善血液循环，用于治疗由血瘀引起的各种症状，如胸痹心痛、经闭等。",
+          "en": "Cardiovascular Health: Widely used to improve blood circulation, reduce blood viscosity, and treat heart conditions such as angina and myocardial infarction."
+        },
+        {
+          "zh": "心脑血管保护：丹参对心脑血管系统具有明显的保护作用，能够预防和治疗冠心病、心绞痛、脑血栓等疾病。",
+          "en": "Anti-inflammatory and Antioxidant: Exhibits strong anti-inflammatory and antioxidant properties, making it useful in treating chronic diseases and reducing oxidative stress."
+        },
+        {
+          "zh": "抗炎作用：丹参还具有抗炎、抗氧化的效果，能减少炎症反应，保护身体免受自由基的伤害。",
+          "en": "Sedative and Anxiolytic Effects: This has been shown to have calming effects on the nervous system, helping to reduce anxiety and insomnia."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "丹参可以单独使用，也可以与其他药材配伍，以增强效果。例如，与黄芪、红花配伍，用于心血管疾病的治疗；与川芎、桃仁配伍，用于活血化瘀。",
+        "en": "Salvia miltiorrhiza can be used in various forms, including decoctions, powders, and injectable extracts in modern medical practices. The dosage varies depending on the form and the condition being treated but typically ranges from 9 to 30 grams."
+      },
+      "cautions": {
+        "zh": "由于丹参具有较强的活血化瘀作用，因此在出血性疾病（如胃溃疡出血）或术后患者中应谨慎使用。使用丹参期间，建议监测血压和肝功能，以防可能出现的不良反应。",
+        "en": "Generally considered safe for most adults when used appropriately. However, because of its blood-thinning properties, it should be used with caution in people taking anticoagulant or antiplatelet medications. Pregnant and breastfeeding women should consult a healthcare provider before use."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  

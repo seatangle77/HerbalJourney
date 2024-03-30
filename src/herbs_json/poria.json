@@ -1,0 +1,58 @@
+{
+    "herb": "茯苓",
+    "englishName": "Poria",
+    "details": {
+      "scientificName": {
+        "zh": "茯苓",
+        "en": "Poria cocos (Schw.) Wolf"
+      },
+      "alternativeNames": {
+        "zh": ["茯苓", "白茯苓", "土茯苓"],
+        "en": ["Poria", "Fu Ling", "China Root", "Tuckahoe", "Indian Bread"]
+      },
+      "family": {
+        "zh": "多孔菌科",
+        "en": "Polyporaceae"
+      },
+      "habitat": {
+        "zh": "茯苓主要生长在平原和低山地区，特别是松树林中。中国的华东、华中和东北地区是其主要的生长地。",
+        "en": "Poria mushrooms grow primarily in the subtropical and temperate forests of China, on the roots of pine trees. They are also found in various regions across East Asia."
+      },
+      "usedPart": {
+        "zh": "药用的主要部分为菌核，即茯苓体。在松树根部形成的白色或略带黄色的固体块，质地坚硬。",
+        "en": "The sclerotium, a mass of mycelium that absorbs nutrients from the host tree."
+      },
+      "mainComponents": {
+        "zh": "主要成分包括多糖、三萜类、瓜氨酸及各种矿物质。",
+        "en": "Poria contains several bioactive compounds including polysaccharides, triterpenoids, pachymic acid, and various minerals."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "健脾利湿：对于脾虚所致的食欲不振、身体乏力有显著的改善作用。",
+          "en": "Diuretic and Dampness Resolving: It is traditionally used to promote urination and resolve dampness in the body, aiding conditions such as edema."
+        },
+        {
+          "zh": "利水渗湿：能够促进体内水分代谢，适用于治疗水肿、小便不畅等症状。",
+          "en": "Spleen Strengthening: Enhances digestion and alleviates symptoms of spleen deficiency like fatigue and loose stools."
+        },
+        {
+          "zh": "宁心安神：对于心悸、失眠、多梦等由心脾两虚引起的症状有很好的治疗效果。",
+          "en": "Calming the Mind: It is utilized to calm the mind and ease sleep disturbances, making it a common ingredient in formulas addressing insomnia and anxiety."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "常用于煎汤、磨粉或提取物形式使用；剂量视形式而定，但在煎汤中通常为9到15克。",
+        "en": "Used in decoctions, powders, and extracts; the dosage varies depending on the form but typically ranges from 9 to 15 grams in decoctions."
+      },
+      "cautions": {
+        "zh": "一般认为安全，但过量使用可能导致消化问题或由于其利尿性质而导致脱水。建议在使用前咨询医疗提供者，特别是对于孕妇或哺乳期妇女，以及脾胃虚寒的个体。",
+        "en": "Generally considered safe, but excessive use may lead to digestive issues or dehydration due to its diuretic properties. It is advised to consult a healthcare provider before use, especially for pregnant or breastfeeding women, and individuals with spleen and stomach coldness."
+      }
+    },
+    "images": [
+      "@asset('herbs/poria/Poria1.jpg')",
+      "@asset('herbs/poria/Poria2.jpg')",
+      "@asset('herbs/poria/Poria.png')"
+    ]
+  }
+  

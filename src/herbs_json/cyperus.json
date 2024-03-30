@@ -1,0 +1,57 @@
+{
+    "herb": "香附",
+    "englishName": "Cyperus rotundus",
+    "details": {
+      "scientificName": {
+        "zh": "香附",
+        "en": "Cyperus rotundus"
+      },
+      "alternativeNames": {
+        "zh": ["香附子", "莎草"],
+        "en": ["Nut Grass", "Purple Nutsedge", "Xiang Fu"]
+      },
+      "family": {
+        "zh": "莎草科 Cyperaceae",
+        "en": "Cyperaceae"
+      },
+      "habitat": {
+        "zh": "香附原产于印度，但在亚洲、非洲、欧洲和澳大利亚等地均有分布。它适应性极强，既可以生长在干旱地区，也能适应湿润环境。在中国，香附主要生长在南方的湿地和水田边缘。",
+        "en": "Widely distributed in warm temperate, tropical, and subtropical regions worldwide, including Asia, Africa, Southern Europe, and the Pacific Islands. It thrives in various habitats, including agricultural lands, roadsides, and gardens, preferring moist conditions."
+      },
+      "usedPart": {
+        "zh": "主要使用其干燥的块茎，采集后清洗干净，切片晒干或阴干。",
+        "en": "The tuberous rhizomes are the part used medicinally."
+      },
+      "mainComponents": {
+        "zh": "香附含有挥发油，其主要成分包括α-蒎烯、β-蒎烯等，还含有黄酮、酚酸类化合物等多种有效成分。",
+        "en": "Contains essential oils (including cyperene, cyperotundone), flavonoids, and sesquiterpenes, which contribute to its medicinal properties."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "疏肝解郁：香附能够疏通肝气，调节情绪，用于治疗由肝气郁结引起的胸闷、乳房胀痛等症状。",
+          "en": "Regulates Qi and Alleviates Pain: Used to regulate liver qi, addressing symptoms like abdominal pain, bloating, and menstrual discomfort."
+        },
+        {
+          "zh": "调经止痛：对于月经不调、经期疼痛有良好的缓解作用。",
+          "en": "Emotional Well-being: Due to its qi-regulating properties, it's also used to relieve stress, frustration, and depression."
+        },
+        {
+          "zh": "消炎止痛：香附的挥发油具有一定的消炎作用，可以用于治疗外伤、关节炎等。",
+          "en": "Promotes Blood Circulation: It helps in promoting blood flow, which is beneficial in treating menstrual irregularities and pain."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "香附常与其他药材配合使用，以增强其疗效。例如，与当归、白芍配伍，可用于调经止痛；与柴胡、白术等配伍，可以疏肝解郁、健脾益气。",
+        "en": "Cyperus rotundus can be used in decoctions, powders, and as an extract. The typical dosage in decoction form ranges from 6 to 12 grams."
+      },
+      "cautions": {
+        "zh": "香附性温，因此体内有实热、湿热的人应慎用。孕妇应在医师指导下使用。",
+        "en": "Generally considered safe when used as directed, but patients with liver disease or those taking medication that affects the liver should use it under healthcare supervision. Pregnant women should consult a healthcare provider before use."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  

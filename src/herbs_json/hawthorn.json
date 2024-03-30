@@ -1,0 +1,56 @@
+{
+    "herb": "山楂",
+    "englishName": "Hawthorn",
+    "details": {
+      "scientificName": {
+        "zh": "山楂",
+        "en": "Crataegus pinnatifida Bunge"
+      },
+      "alternativeNames": {
+        "zh": ["红山果", "山里红"],
+        "en": ["Hawthorn", "Chinese Hawthorn", "Shan Zha"]
+      },
+      "family": {
+        "zh": "蔷薇科，山楂属",
+        "en": "Rosaceae, Crataegus"
+      },
+      "habitat": {
+        "zh": "山楂树适应性强，喜光、耐寒。它们通常生长在海拔1000米以下的山地、丘陵以及平原地带，尤其是在中国的北方和中部地区。山楂树对土壤要求不严，但以排水良好、肥沃的土壤为佳。",
+        "en": "Widely cultivated and found in the wild in various parts of Asia, especially in China, as well as in Europe and North America. It thrives in sunny and slightly shaded areas, preferring well-drained soils."
+      },
+      "usedPart": {
+        "zh": "主要使用其成熟的果实，采收后晒干或鲜用。除了果实，山楂的叶片和花也可用作药用。",
+        "en": "Primarily the fruit, but leaves and flowers are also used medicinally."
+      },
+      "mainComponents": {
+        "zh": "山楂含有多种有益成分，包括黄酮类化合物、有机酸（如柠檬酸、苹果酸）、蔗糖、维生素C等，这些成分赋予了山楂多方面的药用价值。",
+        "en": "Hawthorn is rich in flavonoids, oligomeric proanthocyanidins (OPCs), organic acids, and various antioxidants."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "健脾消食：山楂能增强胃液分泌，促进食物消化，用于治疗食积不消、胃胀等症状。",
+          "en": "Digestive Aid: Helps in digestion and relieves food stagnation, especially after consuming meat or greasy foods. It is commonly used for indigestion and abdominal discomfort."
+        },
+        {
+          "zh": "活血化瘀：对于血瘀所致的经痛、痛经有良好效果。",
+          "en": "Cardiovascular Health: Supports heart health by improving blood flow, reducing blood pressure, and lowering cholesterol levels."
+        },
+        {
+          "zh": "降血脂、降血压：山楂有助于调节血脂和血压，预防心血管疾病。",
+          "en": "Antioxidant Properties: The antioxidants present in hawthorn can neutralize free radicals and reduce inflammation, contributing to overall health and prevention of chronic diseases."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "山楂可以单独使用，也常与其他药材配伍以增强效果，如与陈皮配合以加强健脾消食的作用。",
+        "en": "Hawthorn can be consumed in various forms, including teas, extracts, capsules, and even as candied fruit snacks. The dosage varies depending on the form and the specific health concern being addressed."
+      },
+      "cautions": {
+        "zh": "山楂具有促进血液循环的作用，因此在血压过低或使用抗凝血药物的情况下应谨慎使用。孕妇在使用山楂时应咨询医师，以免引起子宫收缩。",
+        "en": "Generally considered safe for most people when used appropriately. However, it should be used with caution in individuals with cardiac or blood pressure medications due to potential interactions."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }

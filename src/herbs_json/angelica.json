@@ -1,0 +1,57 @@
+{
+    "herb": "当归",
+    "englishName": "Angelica Sinensis",
+    "details": {
+      "scientificName": {
+        "zh": "当归",
+        "en": "ngelica sinensis (Oliv.) Diels"
+      },
+      "alternativeNames": {
+        "zh": ["女参", "唐参", "中国当归"],
+        "en": ["Dong Quai", "Chinese Angelica", "Female Ginseng"]
+      },
+      "family": {
+        "zh": "伞形科",
+        "en": "Apiaceae (Umbelliferae)"
+      },
+      "habitat": {
+        "zh": "当归喜欢冷凉、湿润的环境，通常生长在海拔1000米至3000米的山区或平原地带。它需要肥沃、排水良好的土壤，并且能够承受低温环境。在中国的甘肃、四川、云南等省份有大量栽培。",
+        "en": "Native to China, found predominantly in the cool high-altitude mountains of Gansu, Hubei, Sichuan, and Yunnan provinces. It is also cultivated in Japan and Korea."
+      },
+      "usedPart": {
+        "zh": "主要药用部分为干燥的根，通常在秋季采挖，除去细根和泥土，晒干或阴干。",
+        "en": "The root is the primary medicinal part used in this plant."
+      },
+      "mainComponents": {
+        "zh": "当归含有多种有效成分，包括挥发油、叶绿素、维生素A、维生素B12、钙、铁等，以及多种抗氧化剂。",
+        "en": "Contains various compounds including phytosterols, polysaccharides, ibutilide, ferulic acid, and vitamins A and E."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "补血调经：当归能够促进血液生成，调整月经，用于治疗贫血、月经不调等症状。",
+          "en": "Blood Tonic: Widely used to nourish and invigorate the blood, making it beneficial for conditions related to blood deficiency such as anemia, pale complexion, and dizziness."
+        },
+        {
+          "zh": "活血化瘀：适用于跌打损伤、血瘀引起的疼痛。",
+          "en": "Menstrual Regulator: Helps regulate menstrual cycles and alleviate menstrual discomforts such as cramps and irregular periods."
+        },
+        {
+          "zh": "滋阴润燥：对于身体虚弱、皮肤干燥等有很好的效果。",
+          "en": "Immune System Modulator: It has been suggested to modulate the immune system and promote the health of the cardiovascular system."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "当归可以单独使用，也常与其他药材配伍，以增强效果。例如，与白芍配伍，用于调经止痛；与黄芪配合，用于补血益气。",
+        "en": "Commonly used in the form of decoctions, powders, tinctures, and dietary supplements. The typical dosage ranges from 4.5 to 15 grams in decoction."
+      },
+      "cautions": {
+        "zh": "孕妇及月经过多者应谨慎使用。因其具有较强的活血作用，手术前后应避免使用。",
+        "en": "Dong quai is generally safe for most people when used appropriately. However, it should be used with caution by those with bleeding disorders, hormone-sensitive conditions, and during pregnancy. It may increase the skin's sensitivity to the sun and interact with blood-thinning medications."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  

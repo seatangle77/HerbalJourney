@@ -1,0 +1,57 @@
+{
+    "herb": "泽泻",
+    "englishName": "Alisma",
+    "details": {
+      "scientificName": {
+        "zh": "泽泻",
+        "en": "Alisma plantago-aquatica"
+      },
+      "alternativeNames": {
+        "zh": ["水蜜桃", "慈姑"],
+        "en": ["Water Plantain", "Alisma", "Ze Xie"]
+      },
+      "family": {
+        "zh": "泽泻科 Alismataceae",
+        "en": "Alismataceae"
+      },
+      "habitat": {
+        "zh": "泽泻喜欢生长在湿润的环境中，常见于池塘、河边或湿地。这种植物对土壤的要求不高，能够适应多种水质，广泛分布于中国的东部、中部和南部地区。",
+        "en": "Commonly found in shallow water or marshes throughout temperate regions of the Northern Hemisphere, including Europe, Asia, and North America. It prefers full or partial sun and grows in muddy or sandy soils."
+      },
+      "usedPart": {
+        "zh": "主要使用其干燥的块根（泽泻根），在秋季采挖，清洗干净后，切片晒干。",
+        "en": "The dried rhizomes (underground stems) are used medicinally."
+      },
+      "mainComponents": {
+        "zh": "泽泻富含多种有效成分，包括萜类化合物、黄酮类、多糖等，这些成分赋予泽泻良好的利水渗湿作用。",
+        "en": "Alisma contains triterpenoids, flavonoids, and essential oils, contributing to its diuretic and lipid-lowering effects."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "利水渗湿：泽泻能有效促进体内水分代谢，对于治疗水肿、小便不利等症状有显著效果。",
+          "en": "Diuretic and Dampness Elimination: Promotes urination and helps to eliminate dampness in the body, making it useful for addressing edema and urinary difficulty."
+        },
+        {
+          "zh": "调节水道：通过促进肾脏功能，帮助调节体内的水电解质平衡，适用于尿频、尿急等泌尿系统疾病。",
+          "en": "Lipid Regulation: Has been used to help manage blood lipid levels, potentially beneficial for cardiovascular health."
+        },
+        {
+          "zh": "清热解毒：泽泻还具有一定的清热解毒作用，可以用于治疗由湿热引起的黄疸、脚气等症状。",
+          "en": "Kidney Support: Traditionally used to strengthen the kidneys and spleen, enhancing their function in water metabolism."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "在中医治疗中，泽泻常与其他药材配合使用，以增强其利水渗湿的效果。例如，与茯苓、白术等同用，可增强健脾利湿的效果；与决明子、菊花配伍，可用于治疗眼疾。",
+        "en": "Typically used in decoctions, often in combination with other herbs to enhance its diuretic and dampness-eliminating effects. The standard dosage in decoction form ranges from 6 to 12 grams."
+      },
+      "cautions": {
+        "zh": "泽泻具有较强的利水作用，因此在使用时需注意水分和电解质的平衡，避免脱水。肾功能不全或严重脱水的患者应慎用。",
+        "en": "Generally considered safe when used as directed, but excessive use can lead to electrolyte imbalances due to its diuretic effect. It is advised to use under the guidance of a healthcare professional, especially for individuals with kidney disorders or those taking diuretic medications."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  

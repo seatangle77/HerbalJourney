@@ -1,0 +1,57 @@
+{
+    "herb": "白术",
+    "englishName": "Atractylodes Macrocephala",
+    "details": {
+      "scientificName": {
+        "zh": "白术",
+        "en": "Atractylodes macrocephala Koidz."
+      },
+      "alternativeNames": {
+        "zh": ["大白术", "白术（与苍术区分）"],
+        "en": ["Largehead Atractylodes Rhizome", "Bai Zhu"]
+      },
+      "family": {
+        "zh": "菊科（Asteraceae），苍术属（Atractylodes）",
+        "en": "Asteraceae (Daisy family)"
+      },
+      "habitat": {
+        "zh": "白术喜欢生长在阳光充足、湿润而排水良好的土壤中。它主要生长在海拔200米至1200米的山坡、山谷和林缘地带。中国浙江、江苏、安徽等省的白术质量尤为出众。",
+        "en": "Native to China, particularly found in the provinces of Zhejiang, Hubei, and Henan. It thrives in light, sandy, and well-drained soils in sunny locations. The plant prefers mountainous regions and is cultivated for its medicinal root."
+      },
+      "usedPart": {
+        "zh": "主要使用其干燥的根茎，即白术的块茎。收获期通常在秋季植物落叶后，此时药材中的有效成分含量最高。",
+        "en": "The dried rhizome is used medicinally."
+      },
+      "mainComponents": {
+        "zh": "白术含有挥发油、多糖、生物碱等多种有效成分。其中挥发油含有驱风、温中、止汗等药效，多糖具有增强免疫力的作用。",
+        "en": "Contains essential oils, polysaccharides, sesquiterpenoids, and other bioactive compounds that contribute to its medicinal properties."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "健脾胃：对于脾胃虚弱、食欲不振、泄泻等症状有良好的治疗效果。",
+          "en": "Spleen and Stomach Strengthening: Traditionally used to strengthen the spleen and stomach, promoting digestion and alleviating symptoms of diarrhea and fatigue due to spleen deficiency."
+        },
+        {
+          "zh": "驱湿邪：能有效调节体内湿气，用于治疗因湿邪引起的身体沉重、头晕等症状。",
+          "en": "Dampness Elimination: Helps to dry dampness and promote diuresis, useful in treating edema and damp-related conditions."
+        },
+        {
+          "zh": "安胎作用：在传统中医中，白术还用于预防妊娠早期的流产。",
+          "en": "Immune System Support: Its polysaccharides have been shown to enhance immune system function, making it beneficial for preventing colds and flu."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "白术可以单独使用，也常与其他药材如茯苓、甘草等配合使用，以增强健脾利湿的效果。在复方中，白术能够和多种药材相配伍，用于治疗各种由脾胃虚弱引起的疾病。",
+        "en": "Commonly used in decoctions, powders, and as an ingredient in various traditional Chinese medicine formulations. The standard dosage ranges from 6 to 12 grams in decoction."
+      },
+      "cautions": {
+        "zh": "白术性温，因此对于体质偏热、患有热性疾病的人应慎用。长期过量使用可能导致口干舌燥等症状。",
+        "en": "Generally well-tolerated, but it should be used with caution in cases of yin deficiency with dry symptoms or in those without significant dampness or digestive issues. As always, consultation with a healthcare provider is recommended, especially for pregnant or breastfeeding women."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  

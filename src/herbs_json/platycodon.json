@@ -1,0 +1,57 @@
+{
+    "herb": "桔梗",
+    "englishName": "Platycodon",
+    "details": {
+      "scientificName": {
+        "zh": "桔梗",
+        "en": "Platycodon grandiflorus (Jacq.) A. DC."
+      },
+      "alternativeNames": {
+        "zh": ["川桔梗", "大花桔梗"],
+        "en": ["Balloon Flower", "Chinese Bellflower", "Jie Geng"]
+      },
+      "family": {
+        "zh": "桔梗科，桔梗属",
+        "en": "Campanulaceae, Platycodon"
+      },
+      "habitat": {
+        "zh": "桔梗偏爱温和的气候和阳光充足的环境，适应性强，能够在多种土壤类型中生长，但最适宜于排水良好、肥沃的砂质壤土。它主要分布在中国的东北、华北及西北等地的山地、丘陵以及平原地带。",
+        "en": "Native to East Asia (China, Japan, Korea, and Eastern Siberia). It grows in meadows, mountain slopes, and edges of fields and roads. Prefers full sun to partial shade and well-drained, loamy soil."
+      },
+      "usedPart": {
+        "zh": "主要利用桔梗的干燥根部，采挖时间通常在秋季植物落叶后或春季发芽前。",
+        "en": "The root is the primary medicinal part used."
+      },
+      "mainComponents": {
+        "zh": "桔梗根含有桔梗苷、皂苷、黄酮、挥发油等多种化学成分，这些成分共同赋予桔梗其药用价值。",
+        "en": "Contains saponins, flavonoids, and glycosides, which contribute to its medicinal properties."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "开胸理气：桔梗能够促进气体在胸腔内的流通，缓解胸闷胸痛等症状。",
+          "en": "Respiratory Health: Traditionally used to treat coughs and to expel phlegm. It is known for its ability to open up and bring relief to the lungs and throat."
+        },
+        {
+          "zh": "利咽消痰：对于咽喉肿痛、声音嘶哑、咳嗽有痰等症状有良好的治疗效果。",
+          "en": "Anti-inflammatory and Analgesic: Exhibits anti-inflammatory and pain-relieving effects, making it useful in treating sore throat and other inflammatory conditions."
+        },
+        {
+          "zh": "抗炎作用：桔梗还具有一定的抗炎作用，能够缓解因感染引起的炎症。",
+          "en": "Immune Support: Enhances immune function and has been used to prevent and treat common colds and other respiratory infections."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "桔梗经常与其他药材如百部、甘草等配合使用，以增强其缓解咳嗽、消炎的效果。在治疗咽喉炎、支气管炎等疾病时，桔梗是常用的药材之一。",
+        "en": "Commonly used in decoctions, powders, and as an extract in various traditional Chinese medicine formulations. The typical dosage in decoction form ranges from 3 to 10 grams."
+      },
+      "cautions": {
+        "zh": "桔梗性温，使用时需根据个人体质调整剂量。孕妇及胃肠功能较弱者应谨慎使用。",
+        "en": "While generally considered safe, it should be used with caution in patients with gastritis or peptic ulcers due to its stimulating effects on the stomach. Pregnant and breastfeeding women should consult a healthcare provider before use."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  

@@ -1,0 +1,57 @@
+{
+    "herb": "甘草",
+    "englishName": "Licorice",
+    "details": {
+      "scientificName": {
+        "zh": "甘草",
+        "en": "Glycyrrhiza uralensis Fisch."
+      },
+      "alternativeNames": {
+        "zh": ["甜根", "国老", "甜木"],
+        "en": ["Licorice", "Sweet Root"]
+      },
+      "family": {
+        "zh": "豆科",
+        "en": "Fabaceae (Leguminosae)"
+      },
+      "habitat": {
+        "zh": "甘草适应性强，能够在多种土壤条件下生长，但更喜欢沙质或砂质壤土，需要良好的排水条件和充足的阳光。它主要分布在中国的东北、西北以及华北等地区的平原和沙漠边缘地带。",
+        "en": "Licorice is native to the Mediterranean region, parts of Asia, including China, and parts of Europe. It grows in sub-tropical and warm temperate climates, preferring well-drained soils in sunny locations."
+      },
+      "usedPart": {
+        "zh": "主要利用甘草的根和根茎，采挖后清洗干净，干燥后即可使用。",
+        "en": "The root is the primary part used for its medicinal properties."
+      },
+      "mainComponents": {
+        "zh": "甘草含有甘草甜素（Glycyrrhizin）、甘草酸、黄酮类化合物、异黄酮、挥发油等多种有效成分。",
+        "en": "Glycyrrhizin (glycyrrhizic acid), flavonoids, coumarins, and asparagine."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "调和药性：甘草能够调和各种药物的性能，缓和药物的剧烈作用。",
+          "en": "Anti-inflammatory and Antiviral: Widely used for its anti-inflammatory properties, helpful in treating conditions like sore throat, arthritis, and for antiviral purposes."
+        },
+        {
+          "zh": "解毒：对于某些毒物有解毒作用，如食物中毒、药物中毒等。",
+          "en": "Adrenal Support: Licorice can support adrenal function, making it useful in addressing adrenal fatigue and stress."
+        },
+        {
+          "zh": "抗炎抗过敏：甘草具有抗炎和抗过敏的效果，用于治疗咽喉痛、皮肤病等。",
+          "en": "Digestive Health: It has a soothing effect on the gastrointestinal tract, helping to relieve heartburn, indigestion, and stomach ulcers."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "甘草在中医配方中经常被用作调和剂，与多种药材配伍，以减少药物的副作用和增强药效。它与其他药材的配合使用可以广泛应用于消化系统、呼吸系统、免疫系统等多个系统的疾病治疗。",
+        "en": "Licorice can be used in various forms, including teas, extracts, tablets, and as a flavoring in foods. The recommended dosage varies depending on the form and use but should be limited to short-term usage due to potential side effects."
+      },
+      "cautions": {
+        "zh": "长期过量使用甘草可能会导致钾流失，引起水肿、高血压等问题。心脏病和高血压患者应谨慎使用。孕妇和哺乳期妇女应避免使用。",
+        "en": "Excessive consumption of licorice or glycyrrhizin can lead to adverse effects like hypertension, low potassium levels, and fluid retention. It is advised to avoid high doses or long-term use, especially for individuals with high blood pressure, kidney disease, or pregnant women."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  

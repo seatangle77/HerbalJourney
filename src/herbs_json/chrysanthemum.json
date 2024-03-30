@@ -1,0 +1,57 @@
+{
+    "herb": "菊花",
+    "englishName": "Chrysanthemum",
+    "details": {
+      "scientificName": {
+        "zh": "菊花",
+        "en": "Chrysanthemum morifolium Ramat."
+      },
+      "alternativeNames": {
+        "zh": ["波斯菊", "秋菊"],
+        "en": ["Chrysanthemum", "Florist's Chrysanthemum", "Ju Hua"]
+      },
+      "family": {
+        "zh": "菊科（Asteraceae）菊属（Chrysanthum）",
+        "en": "Asteraceae (Daisy family)"
+      },
+      "habitat": {
+        "zh": "菊花适应性强，喜光照充足、通风良好且排水良好的环境。在中国，几乎各地均有栽培，尤其是江苏、浙江、安徽等地的菊花品质更为上乘。",
+        "en": "Native to Asia, especially China, where it has been cultivated for over 2,500 years. It thrives in well-drained, fertile soil under full sun to partial shade. Today, it is grown worldwide for its ornamental value and medicinal properties."
+      },
+      "usedPart": {
+        "zh": "主要使用其干燥的花朵。采摘时机一般为花朵刚刚开放时，此时药用成分含量较高。采摘后应迅速晒干或阴干保存。",
+        "en": "The flowers are the primary part used for medicinal purposes."
+      },
+      "mainComponents": {
+        "zh": "菊花含有挥发油、黄酮类化合物、萜类化合物等多种生物活性成分。其中黄酮类化合物具有良好的抗氧化性，对人体健康有益。",
+        "en": "Contains flavonoids, such as acacetin and luteolin, volatile oils, and vitamins, contributing to its health benefits."
+      },
+      "therapeuticEffects": [
+        {
+          "zh": "清热解毒：用于治疗风热感冒、头痛、喉痛等症状。",
+          "en": "Anti-inflammatory and Cooling: Used to clear heat and relieve inflammation, making it beneficial for treating fever, sore throat, and headaches."
+        },
+        {
+          "zh": "平肝明目：对于肝火旺盛引起的眼睛红肿痛、头晕头痛等有很好的疗效。",
+          "en": "Liver Health and Vision Improvement: Traditionally used to support liver health and improve vision, especially in conditions related to liver heat or yin deficiency causing eye discomfort."
+        },
+        {
+          "zh": "降血压：长期饮用菊花茶有助于降低血压，预防心血管疾病。",
+          "en": "Cardiovascular Health: Helps in lowering blood pressure and cholesterol levels, contributing to cardiovascular health."
+        }
+      ],
+      "usageAndDosage": {
+        "zh": "菊花可以单独泡茶饮用，也可与其他药材如枸杞、甘草等配伍，增强其清热解毒、明目降压的效果。常见的菊花茶，是日常生活中广受欢迎的保健饮品。",
+        "en": "Chrysanthemum can be consumed as a tea, used in tinctures, or included in dietary supplements. For tea, 5-10 grams of dried flowers per day is a common dosage."
+      },
+      "cautions": {
+        "zh": "菊花性寒，因此脾胃虚寒、容易腹泻的人应少量食用或避免食用。孕妇在使用菊花前应咨询医生。",
+        "en": "Generally considered safe for most people when consumed in amounts typically found in food and tea. However, it may cause allergic reactions in some individuals, especially those allergic to daisy family plants. Pregnant and breastfeeding women should consult a healthcare provider before use."
+      }
+    },
+    "images": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+  
