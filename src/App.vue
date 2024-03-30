@@ -4,32 +4,32 @@
       <h1>The Journey of Herbal - Scoreboard</h1>
     </el-header>
     <el-main>
-      <el-row v-for="player in players" :key="player.id" :class="['player', player.id]">
-        <el-col :span="8">
+      <el-row type="flex" justify="center" style="padding-left: 20px;padding-right: 20px;">
+        <el-col :xs="24" :sm="12" :md="12" :lg="6" :xl="6" v-for="player in players" :key="player.id"
+          :class="['player', player.id]">
           <el-avatar :src="player.avatar"></el-avatar>
-        </el-col>
-        <el-col :span="16">
-          <el-row class="score">
-            <el-col :span="22">
-              Stars:
-              <img class="star-img" v-for="n in 7" :key="n" :src="n <= player.stars ? star : star1" alt="star">
-              <el-slider class="custom-stars-slider" v-model="player.stars" :max="7" show-stops></el-slider>
-            </el-col>
-            <el-col :span="22">
-              Health:
-              <img class="heart-img" v-for="n in 5" :key="n" :src="n <= player.health ? heart : heart1" alt="heart">
-              <el-slider class="health-slider" v-model="player.health" :max="5" show-stops></el-slider>
-            </el-col>
-          </el-row>
-          <el-row>
-            <el-result v-if="player.stars === 7" title="胜利" type="success"
-              :description="'玩家 ' + player.id + ' 胜利!'"></el-result>
-            <el-result v-if="player.health === 0" title="淘汰" type="error"
-              :description="'玩家 ' + player.id + ' 被淘汰!'"></el-result>
-          </el-row>
-          <el-row v-if="player.eliminated">
-            <el-tag type="danger">Eliminated</el-tag>
-          </el-row>
+          <div class="score">
+            <span>Stars:</span>
+            <img class="star-img" v-for="n in 7" :key="n" :src="n <= player.stars ? star : star1" alt="star">
+            <el-slider class="custom-stars-slider" v-model="player.stars" :max="7" show-stops></el-slider>
+            <span>Health:</span>
+            <img class="heart-img" v-for="n in 5" :key="n" :src="n <= player.health ? heart : heart1" alt="heart">
+            <el-slider class="health-slider" v-model="player.health" :max="5" show-stops></el-slider>
+          </div>
+          <div>
+            <el-result v-if="player.stars === 7" title="You are the winner!" type="success"
+              :description="'Player ' + player.id + ' wins!'">
+              <template #icon>
+                <el-image :src=winpic />
+              </template>
+            </el-result>
+            <el-result v-if="player.health === 0" title="You are out!" type="error"
+              :description="'Player ' + player.id + ' is eliminated!'">
+              <template #icon>
+                <el-image :src=losepic />
+              </template>
+            </el-result>
+          </div>
         </el-col>
       </el-row>
     </el-main>
@@ -41,10 +41,13 @@ import avatarA from '@/assets/img/img1.jpg';
 import avatarB from '@/assets/img/img2.jpg';
 import avatarC from '@/assets/img/img3.jpg';
 import avatarD from '@/assets/img/img4.jpg';
+import winpic from '@/assets/img/win.gif';
+import losepic from '@/assets/img/dead.png';
 import star from '@/assets/icon/star.png';
 import heart from '@/assets/icon/heart.png';
 import star1 from '@/assets/icon/star1.png';
 import heart1 from '@/assets/icon/heart1.png';
+
 
 export default {
   data() {
@@ -59,7 +62,9 @@ export default {
       star: star,
       heart: heart,
       star1: star1,
-      heart1: heart1
+      heart1: heart1,
+      winpic: winpic, // 添加这一行
+      losepic: losepic, // 添加这一行
     };
   },
   methods: {
@@ -115,38 +120,69 @@ body {
 }
 
 h1 {
-  color: #4CAF50;
+  color: #449948;
   text-align: center;
+  font-weight: 600;
+}
+.el-header{
+  height: 30px!important;
+}
+.el-main {
+  width: 100%;
 }
 
 .player {
   display: flex;
+  flex-direction: column;
   align-items: center;
   background-color: #FFF;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 20px;
-  margin-bottom: 20px;
-  width: 100%;
+  margin: 10px;
 }
 
 .el-avatar {
   width: 150px;
   height: 150px;
+  margin-bottom: 20px;
+
 }
 
 .score {
-  margin-left: 30px;
+  margin-left: 15px;
+  font-size: 16px;
+  /* 增加字体大小 */
+  color: #3d543e;
+  /* 改变字体颜色 */
+  font-weight: bold;
+  /* 字体加粗 */
+  margin-left: 10px;
+
+  span {
+    padding-right: 5px;
+    float: left;
+  }
 }
 
 .star-img {
-  width: 20px;
+  width: 23px;
   height: 20px;
 }
 
 .heart-img {
-  width: 20px;
-  height: 20px;
+  width: 19px;
+  height: 21px;
+  margin-right: 4px;
+}
+
+.el-image{
+  width: 120px;
+}
+@media (min-width: 1280px) {
+  .el-row {
+    flex-wrap: nowrap;
+  }
 }
 
 .A {
@@ -225,5 +261,26 @@ button {
 
 .D button:hover {
   background-color: #4FC3F7;
+}
+</style>
+<style>
+.custom-stars-slider .el-slider__bar {
+  background-color: #FFD700 !important;
+  /* 星星滑块的颜色 */
+}
+
+.custom-stars-slider .el-slider__button {
+  border-color: #FFD700 !important;
+  /* 星星滑块按钮的颜色 */
+}
+
+.health-slider .el-slider__bar {
+  background-color: #FF6347 !important;
+  /* 心形滑块的颜色 */
+}
+
+.health-slider .el-slider__button {
+  border-color: #FF6347 !important;
+  /* 心形滑块按钮的颜色 */
 }
 </style>
