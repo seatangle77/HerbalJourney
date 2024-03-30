@@ -1,6 +1,7 @@
 {
     "herb": "茯苓",
     "englishName": "Poria",
+    "key": "poria",
     "details": {
       "scientificName": {
         "zh": "茯苓",

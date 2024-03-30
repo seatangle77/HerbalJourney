@@ -1,6 +1,7 @@
 {
     "herb": "山楂",
     "englishName": "Hawthorn",
+    "key": "hawthorn",
     "details": {
       "scientificName": {
         "zh": "山楂",

@@ -6,9 +6,9 @@
       <el-tabs v-model="activeHerbName" tab-position="left" style="height: 100vh;">
         <el-tab-pane
           v-for="herb in herbs"
-          :key="herb.englishName"
+          :key="herb.key"
           :label="`${herb.herb} / ${herb.englishName}`"
-          :name="herb.englishName"
+          :name="herb.key"
         >
           <herb-details :herb="herb" />
         </el-tab-pane>
@@ -30,15 +30,20 @@ import salvia from './herbs_json/salvia.json';
 import chrysanthemum from './herbs_json/chrysanthemum.json';
 import atractylodes from './herbs_json/atractylodes.json';
 
+
 export default {
   components: {
     HerbDetails,
   },
   data() {
     return {
-      activeHerbName: 'Poria', // 默认激活的草药名称
+      activeHerbName: 'poria', // 使用 URL 的哈希值或默认值
       herbs: [poria, licorice, angelica, platycodon, hawthorn, alisma, cyperus, salvia, chrysanthemum, atractylodes],
     };
+  },
+  mounted() {
+    // 页面加载时获取哈希值，并设置对应的激活 tab
+    this.activeHerbName = window.location.hash.substring(1) || 'poria';
   },
 };
 </script>

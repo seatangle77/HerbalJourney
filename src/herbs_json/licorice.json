@@ -1,6 +1,7 @@
 {
     "herb": "甘草",
     "englishName": "Licorice",
+    "key": "licorice",
     "details": {
       "scientificName": {
         "zh": "甘草",

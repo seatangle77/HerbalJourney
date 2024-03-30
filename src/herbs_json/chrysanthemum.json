@@ -1,6 +1,7 @@
 {
     "herb": "菊花",
     "englishName": "Chrysanthemum",
+    "key": "chrysanthemum",
     "details": {
       "scientificName": {
         "zh": "菊花",

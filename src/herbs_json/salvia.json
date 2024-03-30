@@ -1,6 +1,7 @@
 {
     "herb": "丹参",
     "englishName": "Salvia miltiorrhiza",
+    "key": "salvia",
     "details": {
       "scientificName": {
         "zh": "丹参",

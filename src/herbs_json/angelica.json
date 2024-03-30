@@ -1,6 +1,7 @@
 {
     "herb": "当归",
     "englishName": "Angelica Sinensis",
+    "key": "angelica",
     "details": {
       "scientificName": {
         "zh": "当归",
