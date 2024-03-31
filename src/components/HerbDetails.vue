@@ -14,7 +14,7 @@
       </div>
       <div class="images-container">
         <div class="images" v-for="img in herb.images" :key="img">
-          <img :src="getImagePath(img)" alt="Herb Image" />
+          <img :src="requireImg(img)" alt="Herb Image" />
         </div>
       </div>
     </div>
@@ -38,12 +38,11 @@
 </template>
 
 <script>
+
 export default {
   name: 'HerbDetails',
   data() {
-    return {
-      imgpath: "@/assets/herbs/", // 将imgpath放在data函数中
-    };
+
   },  props: {
     herb: {
       type: Object,
@@ -51,12 +50,14 @@ export default {
     },
   },
   methods: {
-  getImagePath(img) {
-    return `/assets/herbs/${img}`;
+    requireImg(imgPath) {
+      return new URL(`../assets/herbs/${imgPath}`, import.meta.url).href;
+    },
+    // ...你的其他方法...
   },
-  // ...其他方法...
-},
 };
+
+
 </script>
 
 <style scoped>
