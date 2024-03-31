@@ -51,9 +51,8 @@
       }
     },
     "images": [
-      "@asset('herbs/poria/Poria1.jpg')",
-      "@asset('herbs/poria/Poria2.jpg')",
-      "@asset('herbs/poria/Poria.png')"
+      "/src/assets/herbs/poria1.jpg",
+      "/src/assets/herbs/poria2.jpg"
     ]
   }
   

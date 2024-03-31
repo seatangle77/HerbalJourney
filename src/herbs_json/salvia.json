@@ -51,8 +51,8 @@
       }
     },
     "images": [
-      "path/to/image1.jpg",
-      "path/to/image2.jpg"
+      "/src/assets/herbs/salvia1.jpg",
+      "/src/assets/herbs/salvia2.jpeg"
     ]
   }
   
