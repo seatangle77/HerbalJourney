@@ -14,7 +14,7 @@
       </div>
       <div class="images-container">
         <div class="images" v-for="img in herb.images" :key="img">
-          <img :src="img" alt="Herb Image" />
+          <img :src="imgpath+img" alt="Herb Image" />
         </div>
       </div>
     </div>
@@ -40,7 +40,11 @@
 <script>
 export default {
   name: 'HerbDetails',
-  props: {
+  data() {
+    return {
+      imgpath: "@/assets/herbs/", // 将imgpath放在data函数中
+    };
+  },  props: {
     herb: {
       type: Object,
       default: () => ({}),

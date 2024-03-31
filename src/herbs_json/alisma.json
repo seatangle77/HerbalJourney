@@ -51,8 +51,8 @@
       }
     },
     "images": [
-      "/src/assets/herbs/alisma1.jpg",
-      "/src/assets/herbs/alisma2.jpg"
+      "alisma1.jpg",
+      "alisma2.jpg"
     ]
   }
   
