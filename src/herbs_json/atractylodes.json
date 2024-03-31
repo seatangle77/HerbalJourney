@@ -51,8 +51,8 @@
       }
     },
     "images": [
-      "/src/assets/herbs/atractylodes1.jpg",
-      "/src/assets/herbs/atractylodes2.jpeg"
+      "atractylodes1.jpg",
+      "atractylodes2.jpeg"
     ]
   }
   

@@ -14,7 +14,7 @@
       </div>
       <div class="images-container">
         <div class="images" v-for="img in herb.images" :key="img">
-          <img :src="imgpath+img" alt="Herb Image" />
+          <img :src="getImagePath(img)" alt="Herb Image" />
         </div>
       </div>
     </div>
@@ -50,6 +50,12 @@ export default {
       default: () => ({}),
     },
   },
+  methods: {
+  getImagePath(img) {
+    return `/assets/herbs/${img}`;
+  },
+  // ...其他方法...
+},
 };
 </script>
 

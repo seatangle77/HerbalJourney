@@ -51,7 +51,7 @@
       }
     },
     "images": [
-      "/src/assets/herbs/hawthorn1.jpeg",
-      "/src/assets/herbs/hawthorn2.jpeg"
+      "hawthorn1.jpeg",
+      "hawthorn2.jpeg"
     ]
   }

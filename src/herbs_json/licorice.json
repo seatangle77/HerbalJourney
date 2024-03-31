@@ -51,8 +51,8 @@
       }
     },
     "images": [
-      "/src/assets/herbs/licorice1.jpeg",
-      "/src/assets/herbs/licorice2.jpeg"
+      "licorice1.jpeg",
+      "licorice2.jpeg"
     ]
   }
   

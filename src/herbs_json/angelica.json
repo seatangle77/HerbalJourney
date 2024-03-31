@@ -51,8 +51,8 @@
       }
     },
     "images": [
-      "/src/assets/herbs/angelica1.png",
-      "/src/assets/herbs/angelica2.jpeg"
+      "angelica1.png",
+      "angelica2.jpeg"
     ]
   }
   

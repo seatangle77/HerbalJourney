@@ -51,8 +51,8 @@
       }
     },
     "images": [
-      "/src/assets/herbs/cyperus1.jpeg",
-      "/src/assets/herbs/cyperus2.gif"
+      "cyperus1.jpeg",
+      "cyperus2.gif"
     ]
   }
   
