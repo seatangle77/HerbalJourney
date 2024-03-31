@@ -3,7 +3,6 @@ const DRIVE_LETTER_REGEX = /^[a-z]:/i;
 
 export function setupBuild() {
   return {
-    publicDir: 'public', // 添加这一行
     outDir: 'dist',
     sourcemap: false,
     chunkSizeWarningLimit: 2000,
